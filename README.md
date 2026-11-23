@@ -1,2 +1,2 @@
 # Eye_lively
-I made wallpaper that monitors your cursor. 
+I made wallpaper that monitors your cursor. To change the wallpaper, you need to go to the lively wallpaper, find it on the top right, plus click on it, then drag the archive to the window. Then click on the wallpapers that are added, select a monitor, and the wallpaper is applied. To change them, click on the switches next to the wallpaper, do not click edit, click configure There's everything you need there. Thank you 
